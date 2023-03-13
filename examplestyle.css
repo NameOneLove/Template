@@ -1,0 +1,155 @@
+body{
+    background: url(Layer_0@1.5x.jpg) no-repeat;
+    /* Style for "Layer 0" */
+width: 1440px;
+height: 1700px;
+background-color: #e8e8e8;
+    /* Style for "Donec sed" */
+font-family: "Times New Roman PSMT";
+font-size: 36px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 50px;
+text-align: center;
+/* Text style for "D, onec se" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.man{
+    /* Style for "light-man" */
+    background: url(light-man_copy.jpg) center;
+    width: 821px;
+    height: 541px;
+    margin: 10px;
+    border: 10px solid white;
+    box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);
+    margin: 87px 0px 107px 299px;
+}
+p{
+    text-align: center;
+    width: 67px;
+    height: 10px;
+    font-family: "Arial MT";
+    font-size: 14px;
+    width: 67px;
+    opacity: 0.6;
+    color: #273d46;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 40px;
+    text-transform: uppercase;
+    /* Text style for "Travel" */
+    font-style: normal;
+    letter-spacing: 2.8px;
+    line-height: normal;
+    margin: 168px 702px 0px 671px;
+}
+h1{
+    width: 100%;
+    height: 75px;
+    color: #273d46;
+    font-size: 36px;
+    text-align: center;
+    line-height: 50px;
+    font-family: "Times New Roman PSMT";
+    font-weight: initial;
+}
+.text2{
+    width: 736px;
+    height: 257px;
+    opacity: 0.8;
+    color: #273d46;
+    font-family: "Times New Roman PSMT";
+    font-size: 24px;
+    text-align: left;
+    line-height: 40px;
+    display: inline-block;
+    font-weight: 400px;
+}
+.div-text2{
+    margin: 60px 0px 60px 0px;
+    display: inline-block;
+}
+li{
+    background: url(check_icon.png) left no-repeat;
+    padding: 0px 0px 22px 30px;
+    background-color: #e8e8e8;
+    display: inline-block;
+    font-size: 22px;
+}
+.put{
+    width: 421px;
+    height: 19px;
+    font-size: 20px;
+    font-weight: 400;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.8);
+    color: #273d46;
+    font-family: "Arial MT";
+    text-align: left;
+    line-height: 36px;
+}
+.a{
+    width: 332px;
+    height: 19px;
+    color: #80b7b3; 
+    font-size: 20px;
+    text-align: left;
+    font-style: italic;
+    font-family: "Arial MT";
+    line-height: 36px;
+    font-weight: 400;
+    letter-spacing: normal;
+    padding: 0px 0px 20px 30px;
+}
+.tell{
+    width: 377px;
+    height: 20px;
+    color: #1f3037;
+    font-family: "Arial MT";
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.associate{
+    width: 397px;
+    height: 19px;
+    opacity: 0.3;
+    color: #273d46;
+    font-family: "Arial MT";
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: line-through;
+}
+.Full-Story {
+    width: 199px;
+    height: 44px;
+    margin: 60px 0px 0px 0px;
+    box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
+    background: url(Shape_2.png) no-repeat 90% #80b7b3;
+    border-radius: 59px;
+}   
+.fl{
+    padding: 0px 0px 0px 22%;
+    display: inline;
+    width: 110px;
+    height: 10px;
+    color: #ffffff;
+    font-family: "Arial MT";
+    font-size: 14px;
+    font-weight: lighter;
+    letter-spacing: 2.8px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-style: normal;
+    
+}
